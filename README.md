@@ -4,3 +4,5 @@ Solved Random Problems
 
 Language: C
 
+IDE: CodeBlocks
+
